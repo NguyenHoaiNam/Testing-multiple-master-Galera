@@ -6,10 +6,6 @@ from database import repos
 
 sqla_logger = logging.getLogger('sqlalchemy.engine.base.Engine')
 sqla_logger.disabled = True
-
-
-
-
 TEST_NAME = 'name'
 
 
